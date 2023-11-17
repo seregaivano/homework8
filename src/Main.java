@@ -80,7 +80,6 @@ public class Main {
             }
             System.out.print(arr2[i] + comma);
         }
-
         //задача 4
         System.out.println();
         int[] temp = new int[array.length];
